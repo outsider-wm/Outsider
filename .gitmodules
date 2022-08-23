@@ -1,0 +1,3 @@
+[submodule "Outsider.Wrapper"]
+	path = src/Outsider.Wrapper
+	url = https://github.com/outsider-wm/Outsider.Wrapper.git
