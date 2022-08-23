@@ -7,5 +7,5 @@
 	url = https://github.com/outsider-wm/Outsider.Main.git
 
 [submodule "Moniori"]
-	path = src/Moniori
+	path = src/moniori
 	url = https://github.com/outsider-wm/Moniori.git
