@@ -5,3 +5,7 @@
 [submodule "Outsider.Main"]
 	path = src/Outsider.Main
 	url = https://github.com/outsider-wm/Outsider.Main.git
+
+[submodule "Moniori"]
+	path = src/Moniori
+	url = https://github.com/outsider-wm/Moniori.git
