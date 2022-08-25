@@ -9,3 +9,11 @@
 [submodule "Moniori"]
 	path = src/moniori
 	url = https://github.com/outsider-wm/Moniori.git
+
+[submodule "Khooker"]
+	path = src/khooker
+	usr = https://github.com/outsider-wm/Khooker.git
+
+[submodule "Outsider.Mover"]
+	path = src/Outsider.Mover
+	url = https://github.com/outsider-wm/Outsider.Mover.git
